@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.logo-banner {
+    display: flex;
+    background-color: aqua;
+}
+
+.logo {
+    width: 30%;
+    background-color: rgb(65, 175, 74);
+    padding: 30px;
+}
+
+.banner {
+    width: 70%;
+    padding: 20px;
+}
+.head-link {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+}
+.container {
+    display: flex;
+}
+.left {
+    width: 20%;
+    background-color: beige;
+    padding: 50px;
+}
+
+.content {
+    width: 60%;
+    background-color: lightblue;
+    padding: 50px;
+}
+.right {
+    width: 20%;
+    background-color: beige;
+    padding: 50px;
+}
+footer {
+    background-color: brown;
+    color: rgb(20, 20, 20);
+    padding: 20px;
+}
